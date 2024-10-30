@@ -1,1 +1,4 @@
-# ECLM-2-year
+# install
+pip install -r requirements.txt
+# run
+$ streamlit run xgb.py
